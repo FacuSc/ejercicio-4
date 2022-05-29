@@ -1,0 +1,17 @@
+/*Reset*/
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/*Variables colores*/
+:root {
+    --colorFondo: #E11364;
+    --colorDivisor: #BC105C;
+    --colorTitulos: #9C0037;
+    --colorBotones: #2C8F20;
+    --colorFooter: #E96093;
+}
+
